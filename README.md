@@ -79,6 +79,13 @@ Each environment is uniquely identified by the `env` variable, allowing you to r
 
 ---
 
+## Future Work
+
+- A precommit hook should be added with the terreaform fmt command.
+- More security with ssh access for developer.
+
+---
+
 ## What is AWS?
 
 **Amazon Web Services (AWS)** is the leading cloud provider offering services like virtual machines (EC2), databases (RDS), and container orchestration (EKS). It enables organizations to build scalable infrastructure on-demand.
