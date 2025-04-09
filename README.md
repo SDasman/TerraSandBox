@@ -64,9 +64,10 @@ Each environment is uniquely identified by the `env` variable, allowing you to r
    ec2_key_name = "your-key-pair-name"
    ```
 
-3. Initialize and apply Terraform:
+3. Initialize, validate, and apply Terraform:
    ```bash
    terraform init
+   terraform validate
    terraform apply
    ```
 
